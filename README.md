@@ -1,5 +1,9 @@
 # CodeIgniter 4 Application Starter
 
+## How to serve?
+
+Use `php spark serve` to serve in localhost:8080 as default
+
 ## What is CodeIgniter?
 
 CodeIgniter is a PHP full-stack web framework that is light, fast, flexible and secure.
