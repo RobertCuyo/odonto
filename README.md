@@ -4,6 +4,10 @@
 
 Use `php spark serve` to serve in localhost:8080 as default
 
+Doesn't work?
+
+Try `composer install` then `php spark serve`
+
 ## What is CodeIgniter?
 
 CodeIgniter is a PHP full-stack web framework that is light, fast, flexible and secure.
